@@ -1,5 +1,5 @@
 {
-  "Version":"18",
+  "Version":"19",
   "Update":"https://raw.githubusercontent.com/gustavo3419/gustavo3519/refs/heads/main/config.json",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -11,7 +11,7 @@
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
-         "Name":"VIVOgringo💥",
+         "Name":"VIVO odod💥",
          "FLAG":"https://i.ibb.co/Y0XwWXB/ic-vivo.png",
          "Payload":"GET / HTTP/1.1[crlf]Host: gustavo34.shop[crlf]Upgrade: Websocket[crlf]Connection:
 Upgrade[crlf][crlf]",
