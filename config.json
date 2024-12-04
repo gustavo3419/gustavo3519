@@ -1,5 +1,5 @@
 {
-  "Version":"13",
+  "Version":"14",
   "Update":"https://paste.anasor.com/paste.php?raw&id=350083",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -11,7 +11,7 @@
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
-         "Name":"VIVO💥",
+         "Name":"VIVO22💥",
          "FLAG":"https://i.ibb.co/Y0XwWXB/ic-vivo.png",
          "Payload":"GET / HTTP/1.1[crlf]Host: gustavo34.shop[crlf]Upgrade: Websocket[crlf]Connection:
 Upgrade[crlf][crlf]",
