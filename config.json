@@ -1,0 +1,84 @@
+{
+  "Version":"13",
+  "Update":"https://paste.anasor.com/paste.php?raw&id=350083",
+  "UdpPort":"7300",
+  "Contato":"https://t.me/pudim",
+  "Site":"https://www.speedtest.net",
+  "Servers": [
+     {
+         "ServerIP":"br.amvoxnet.shop", 
+         "CheckUser": "http://152.67.62.175:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "Name":"VIVO💥",
+         "FLAG":"https://i.ibb.co/Y0XwWXB/ic-vivo.png",
+         "Payload":"GET / HTTP/1.1[crlf]Host: gustavo34.shop[crlf]Upgrade: Websocket[crlf]Connection:
+Upgrade[crlf][crlf]",
+         "ProxyIP":"162.159.135.63",
+         "ProxyPort":"8080",
+         "Info":"Proxy"
+      },
+      {
+         "Name":"VIVO💥💥",
+         "ServerIP":"v.gustavo34.online", "CheckUser": "http://152.67.62.175:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "FLAG":"https://i.ibb.co/Y0XwWXB/ic-vivo.png",
+         "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection:
+Upgrade[crlf][crlf]",
+         "ProxyIP":"recarga.vivo.com.br",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },
+     {
+         "Name":"VIVO EASY💥💥",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://172.233.17.8:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "FLAG":"https://i.ibb.co/GF5mDBD/20240813-143422.png",
+         "Payload":"ACL /index.html HTTP/1.1[crlf]Host: br.amvoxnet.shop [crlf]Upgrade: websocket[crlf][crlf]",
+         "ProxyIP":"104.18.6.80",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },  
+      {
+         "Name":"VIVO SECURITY💥💥💥",
+         "FLAG":"https://i.ibb.co/ZdcKV7X/ic-tnt.png",
+         "Payload":"[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://172.233.17.8:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "ProxyIP":"172.233.17.8",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },
+      {
+         "Name":"TIM EXPIRADO💥💥",
+         "FLAG":"https://a.imagem.app/39SJTP.png",
+         "Payload":"ACL /wss.hlp HTTP/1.3[crlf]Host: br.speednet.store[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Atualização[crlf]Cache-Control: no-cache[crlf]@TMYCOMNECTVPN[crlf][crlf]",
+         "ServerIP":"br.speednet.store", "CheckUser": "http://45.140.192.17:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "ProxyIP":"45.140.192.17",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },
+      {
+         "Name":"TIM SALDO VALIDO💥💥",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://172.233.17.8:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "FLAG":"https://a.imagem.app/39CdV9.png",
+         "Payload":"ACL wss://br.amvoxnet.shop HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
+         "ProxyIP":"104.17.64.225",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      }
+  ]
+}
