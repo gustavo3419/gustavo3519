@@ -1,13 +1,13 @@
 {
-  "Version":"28",
+  "Version":"29",
   "Update":"https://raw.githubusercontent.com/gustavo3419/gustavo3519/refs/heads/main/config.json",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
   "Site":"https://www.speedtest.net",
   "Servers": [
      {
-         "ServerIP":"br.amvoxnet.shop", 
-         "CheckUser": "http://152.67.62.175:5454/checkUser",
+         "ServerIP":"gustavo55.online", 
+         "CheckUser": "http://144.22.138.20:5454/checkUser,
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
