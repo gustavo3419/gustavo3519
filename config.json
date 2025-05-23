@@ -1,5 +1,5 @@
 {
-  "Version":"34",
+  "Version":"35",
   "Update":"https://raw.githubusercontent.com/gustavo3419/gustavo3519/refs/heads/main/config.json",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -22,7 +22,7 @@ Upgrade[crlf][crlf]",
       {
          "Name":"VIVO💥💥",
          "ServerIP":"gustavo55.online", 
-         "CheckUser": "http://152.67.62.175:5454/checkUser",
+         "CheckUser": "http://144.22.138.20:5454/checkUser",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
