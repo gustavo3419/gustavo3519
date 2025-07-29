@@ -1,89 +1,208 @@
 {
-  "Version":"35",
-  "Update":"https://raw.githubusercontent.com/gustavo3419/gustavo3519/refs/heads/main/config.json",
-  "UdpPort":"7300",
-  "Contato":"https://t.me/pudim",
-  "Site":"https://www.speedtest.net",
-  "Servers": [
+  "Version": "66",
+  "ReleaseNotes": "",
+  "UrlUpdate": "https://paste.dragoncoressh.com/paste.php?raw&id=351529",
+  "CheckUser": "true",
+  "BackgroundLink": "https://a.imagem.app/3xzlUN.jpeg",
+  "LogoLink": "https://a.imagem.app/3sB5E3.png",
+  "UdpPort": "7300",
+  "EmailFeedback": "",
+  "UrlContato": "https://t.me/MorozNET",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+     "Servers": [
+    {
+      "Name": "SERVIDOR PREMIUM2",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "v.gustavo34.online",
+      "CheckUser": "http://152.67.62.175:5000/checkUser",
+      "ServerPort": "8080",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+"Networks": [
+ 
+    {
+      "Name": "VIVO turbo  ",
+      "FLAG": "vivo",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.28.27.170#104.18.27.160",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
      {
-         "ServerIP":"gustavo55.online", 
-         "CheckUser": "http://144.22.138.20:5454/checkUser",
-         "ServerPort":"80",
-         "USER":"",
-         "PASS":"",
-         "Name":"VIVO teste💥",
-         "FLAG":"https://i.ibb.co/Y0XwWXB/ic-vivo.png",
-         "Payload":"GET / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Upgrade: Websocket[crlf]Connection:
-Upgrade[crlf][crlf]",
-         "ProxyIP":"104.26.12.205",
-         "ProxyPort":"80",
-         "Info":"Proxy"
-      },
-      {
-         "Name":"VIVO💥💥",
-         "ServerIP":"gustavo55.online", 
-         "CheckUser": "http://144.22.138.20:5454/checkUser",
-         "ServerPort":"80",
-         "USER":"",
-         "PASS":"",
-         "FLAG":"https://i.ibb.co/Y0XwWXB/ic-vivo.png",
-         "Payload":"GET / HTTP/1.1[crlf]Host: gustavo55.online [crlf]Upgrade: Websocket[crlf]Connection:
-Upgrade[crlf][crlf]",
-         "ProxyIP":"104.18.7.80",
-         "ProxyPort":"80",
-         "Info":"Proxy"
-      },
+      "Name": "VIVO turbo 2",
+      "FLAG": "vivo",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.27.160",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO turbo 3",
+      "FLAG": "vivo",
+      "Payload": "ACL / HTTP/1.1[lf]Host: p.gustavo34.online [lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO EASY1",
+      "FLAG": "oi",
+      "Payload": "YUNO HTTP://[random=gustavo34.online] HTTP/1.3[crlf]Host: [rotate=atendimento.lojadointer.com.br;atendimento.magazineluiza.com.br;mycannabisconversation.com.br;compre.vivo.com.br;snow.vivo.com.br;backoffice-equipamentos01.vivo.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.18.37.248",
+      "ProxyIP": "104.18.37.248",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO EASY2",
+      "FLAG": "oi",
+      "Payload": "YUNO HTTP://[random=gustavo34.online] HTTP/1.3[crlf]Host: [rotate=atendimento.lojadointer.com.br;atendimento.magazineluiza.com.br;mycannabisconversation.com.br;compre.vivo.com.br;snow.vivo.com.br;backoffice-equipamentos01.vivo.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "172.64.150.8",
+      "ProxyIP": "172.64.150.8",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
      {
-         "Name":"VIVO EASY💥💥",
-         "CheckUser": "http://144.22.138.20:5454/checkUser",
-         "ServerIP":"br.amvoxnet.shop",
-         "ServerPort":"80",
-         "USER":"",
-         "PASS":"",
-         "FLAG":"https://i.ibb.co/GF5mDBD/20240813-143422.png",
-         "Payload":"ACL /index.html HTTP/1.1[crlf]Host: gustavo55.online [crlf]Upgrade: websocket[crlf][crlf]",
-         "ProxyIP":"104.18.6.80",
-         "ProxyPort":"80",
-         "Info":"Proxy"
-      },  
-      {
-         "Name":"VIVO SECURITY💥💥💥",
-         "CheckUser": "http://144.22.138.20:5454/checkUser",
-         "FLAG":"https://i.ibb.co/ZdcKV7X/ic-tnt.png",
-         "Payload":"[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
-         "ServerIP":"gustavo55.online",
-         "ServerPort":"80",
-         "USER":"",
-         "PASS":"",
-         "ProxyIP":"152.70.220.155",
-         "ProxyPort":"80",
-         "Info":"Proxy"
-      },
-      {
-         "Name":"TIM EXPIRADO💥💥",
-         "CheckUser": "http://144.22.138.20:5454/checkUser",
-         "FLAG":"https://a.imagem.app/39SJTP.png",
-         "Payload":"ACL /wss.hlp HTTP/1.3[crlf]Host: br.speednet.store[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Atualização[crlf]Cache-Control: no-cache[crlf]@TMYCOMNECTVPN[crlf][crlf]",
-         "ServerIP":"gustavo55.online",
-         "ServerPort":"80",
-         "USER":"",
-         "PASS":"",
-         "ProxyIP":"152.70.220.155",
-         "ProxyPort":"80",
-         "Info":"Proxy"
-      },
-      {
-         "Name":"TIM SALDO VALIDO💥💥",
-         "CheckUser": "http://144.22.138.20:5454/checkUser",
-         "ServerIP":"gustavo55.online",
-         "ServerPort":"80",
-         "USER":"",
-         "PASS":"",
-         "FLAG":"https://a.imagem.app/39CdV9.png",
-         "Payload":"ACL wss://gustavo55.online HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
-         "ProxyIP":"104.17.64.225",
-         "ProxyPort":"80",
-         "Info":"Proxy"
-      }
+      "Name": "VIVO EASY3",
+      "FLAG": "oi",
+      "Payload": "YUNO HTTP://[random=gustavo34.online] HTTP/1.3[crlf]Host: [rotate=atendimento.lojadointer.com.br;atendimento.magazineluiza.com.br;mycannabisconversation.com.br;compre.vivo.com.br;snow.vivo.com.br;backoffice-equipamentos01.vivo.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.17.74.206",
+      "ProxyIP": "104.17.74.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO EASY4",
+      "FLAG": "oi",
+      "Payload": "YUNO HTTP://[random=gustavo34.online] HTTP/1.3[crlf]Host: [rotate=atendimento.lojadointer.com.br;atendimento.magazineluiza.com.br;mycannabisconversation.com.br;compre.vivo.com.br;snow.vivo.com.br;backoffice-equipamentos01.vivo.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "gustavo33.online",
+      "TlsIP": "104.18.7.41",
+      "ProxyIP": "104.18.7.41",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO EASY4",
+      "FLAG": "oi",
+      "Payload": "YUNO HTTP://[random=gustavo34.online] HTTP/1.3[crlf]Host: [rotate=atendimento.lojadointer.com.br;atendimento.magazineluiza.com.br;mycannabisconversation.com.br;compre.vivo.com.br;snow.vivo.com.br;backoffice-equipamentos01.vivo.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.18.7.41",
+      "ProxyIP": "104.18.7.41",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO EASY5",
+      "FLAG": "oi",
+      "Payload": "YUNO HTTP://[random=gustavo34.online] HTTP/1.3[crlf]Host: [rotate=atendimento.lojadointer.com.br;atendimento.magazineluiza.com.br;mycannabisconversation.com.br;compre.vivo.com.br;snow.vivo.com.br;backoffice-equipamentos01.vivo.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "carrinho-pos-familia.vivo.com.br",
+      "ProxyIP": "carrinho-pos-familia.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO turbo 7",
+      "FLAG": "vivo",
+      "Payload": "ACL wss://[app_host] HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "104.18.27.160",
+      "ProxyIP": "104.18.27.160",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM ESPIRADO",
+      "FLAG": "tim",
+      "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#HTTP/ [crlf][crlf]|[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "144.22.239.150",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM ESPIRADO1",
+      "FLAG": "tim",
+      "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "144.22.239.150",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM EXPIRADO 2",
+      "FLAG": "tim",
+      "Payload": "HTTP/ 33[lf]Host: jbl.com.//ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\[lf]",
+      "SNI": "",
+      "TlsIP": "144.22.239.150",
+      "ProxyIP": "144.22.239.150",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM SEM CADASTRO 2",
+      "FLAG": "tim",
+      "Payload": "ACL HTTP/ \r\nhost: www.google.com[lf]#http/ \\n\\n/#HTTP/ 1[lf]HTTP/Host: r.net84.shop n\\nhost: www.google.com[lf][lf]#HTTP/ 1[lf]HTTP/ [lf]Host: www.dropbox.com[lf][lf]",
+      "SNI": "191.235.120.50",
+      "TlsIP": "191.235.120.50",
+      "ProxyIP": "144.22.255.116",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+            "Name": "TIM VALIDO",
+            "FLAG": "claro",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][delay_split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: gustavo34.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@canaldotl[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.17.64.225",
+            "ProxyIP": "104.17.64.225",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+    },
+    {
+            "Name": "TIM VALIDO 1",
+            "FLAG": "claro",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][delay_split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: gustavo34.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@canaldotl[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.17.64.225",
+            "ProxyIP": "104.17.64.225",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+    },
+    {
+            "Name": "TIM VALIDO 2",
+            "FLAG": "claro",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][delay_split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: gustavo34.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@canaldotl[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.16.239.166",
+            "ProxyIP": "104.16.239.166",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+    },
+    {
+            "Name": "TIM VALIDO 3",
+            "FLAG": "claro",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][delay_split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: gustavo34.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@canaldotl[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.18.99.70",
+            "ProxyIP": "104.18.99.70",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+    }
   ]
 }
