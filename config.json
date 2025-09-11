@@ -105,12 +105,12 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO EASY5",
+      "Name": "VIVO teste",
       "FLAG": "oi",
-      "Payload": "YUNO HTTP://[random=gustavo34.online] HTTP/1.3[crlf]Host: [rotate=atendimento.lojadointer.com.br;atendimento.magazineluiza.com.br;mycannabisconversation.com.br;compre.vivo.com.br;snow.vivo.com.br;backoffice-equipamentos01.vivo.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "ACL wss://gustavo55.online/ [split]HTTP/1.1 [lf]Expect:100-continue[lf]Host: gustavo55.online [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "carrinho-pos-familia.vivo.com.br",
-      "ProxyIP": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "104.17.64.225",
+      "ProxyIP": "104.17.64.225",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
