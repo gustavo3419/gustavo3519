@@ -1,8 +1,8 @@
 {
-    "Version": 967,
+    "Version": 50,
     "PainelConecta5G": false,
     "ReleaseNotes": false,
-    "UrlUpdate": "https://painelconecta5g.com/update/pasta_IMPERIOVPNC5G/config",
+    "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/gustavo3519/refs/heads/main/config.json",
     "Sms": "https://painelconecta5g.com/update/pasta_IMPERIOVPNC5G/sms",
     "logoonline": "https://i.ibb.co/qMQwrvdf/Design-sem-nome-20250905-015346-0000.png",
     "fundoonline": "https://i.ibb.co/vxGSb8zP/20250918-010243-0000.png",
