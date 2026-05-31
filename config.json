@@ -1,9 +1,9 @@
 {
-   "Version":"12",
+   "Version":"13",
    "Ads":"off",
    "UIMode":"html",
    "1HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/UI%20HTML",
-   "HtmlUIUrl":"https://raw.githubusercontent.com/gustavo3419/gugu33/refs/heads/main/Home_yumeko",
+   "HtmlUIUrl":"https://raw.githubusercontent.com/gustavo3419/yumeko/refs/heads/main/Home_yumeko",
    "7HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/Gustavo%20html",
    "UpdateUrl":"https://raw.githubusercontent.com/gustavo3419/gustavo3519/refs/heads/main/config.json",
    "ReleaseNotes":"LUGH DEVELOP NOTES",
