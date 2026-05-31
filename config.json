@@ -1,5 +1,5 @@
 {
-   "Version":"1",
+   "Version":"2",
    "Ads":"off",
    "UIMode":"html",
    "1HtmlUIUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/UI%20HTML",
@@ -11,7 +11,7 @@
    "Fundo":"https://pbs.twimg.com/media/HI4QpqeWkAAl9ys?format=jpg&name=large",
    "Servers":[
       {
-         "Name":"TIM 01",
+         "Name":"tim gugu",
          "Flag":"br",
          "FlagUrl":"https://raw.githubusercontent.com/Klesyolira/Lugh-LT/refs/heads/main/tim.png",
          "Info":"Direct",
